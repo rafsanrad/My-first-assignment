@@ -9,7 +9,7 @@
 }
 
 
-.open-sans-normal-1 {
+.open-sans-railway {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
@@ -62,4 +62,30 @@
 .banner-title{
     font-size: 65px;
     font-weight: bold;
+}
+
+.sec-1{
+    display: flex;
+    justify-content: space-between;
+    margin: 110px 150px;
+}
+.sec-1-info{
+    width: 500px;
+    height: 200px;
+}
+.sec-1-title{
+    font-size: 42px;
+    font-weight: bold;
+}
+.sec-1-img{
+    border-radius: 48px;
+}
+.sec-1-des{
+    font-size: 24px;
+    font-weight: lighter;
+    color: gray;
+}
+.sec-1-btn{
+    width: 230px;
+    height: 50px;
 }
