@@ -110,6 +110,10 @@
     height: 50px;
     margin: 10px 0px;
 }
+.sec-1-btn:hover{
+    background-color: cadetblue;
+    font-weight: bold;
+}
 
 /* section no.2 styles */
 .sec-2{
@@ -208,6 +212,10 @@
     height: 50px;
     margin-top: 10px;
     margin-bottom: 30px; 
+}
+.sec-4-btn:hover{
+    background-color: cadetblue;
+    font-weight: bold;
 }
 .sec-4-img{
     border-radius: 48px;
