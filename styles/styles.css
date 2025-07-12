@@ -144,7 +144,7 @@
     padding: 24px;
     height: 220px;
     border-radius: 14px;
-    background-color: #F2EDED;
+    background-color: white;
 }
 .sec-3-icons{
     width: 20px;
@@ -199,7 +199,7 @@
 }
 
 .sec-5{
-    margin: 90px 150px 35px;
+    margin: 90px 150px 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -230,4 +230,23 @@
     width: 460px;
     height: 60px;
     padding: 19px 100px;
+}
+.footer{
+    margin: 100px 450px;
+    text-align: center;
+}
+.footer-title{
+    font-size: 100px;
+    font-weight: 900;
+    color: #4E47FF;
+    margin-bottom: 8px;
+}
+.foot-des{
+    color: rgba(137, 135, 161, 1);
+    font-size: 20px;
+}
+.foot-last{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
 }
